@@ -1,4 +1,4 @@
--- Copyright (C) by Yichun Zhang (agentzh)
+-- Copyright (C) by Alexander Misel
 
 
 --local asn1 = require "resty.asn1"
